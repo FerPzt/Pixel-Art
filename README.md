@@ -7,10 +7,8 @@
 
 ## Instructions
 
-To get started, open `designs.js` and start building out the app's functionality.
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+To use the Pixel Art Maker, you need to open index.html and set the size of the grid (height and width), then select the color in the color picker. After that, you are good to start your pixel art.
 
 ## Contributing
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+Starter code by Udacity, desgins.js implemented by Fernanda.
